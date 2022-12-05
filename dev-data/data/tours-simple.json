@@ -98,7 +98,7 @@
   {
     "id": 6,
     "name": "The Wine Taster",
-    "duration": 5,
+    "duration": 89,
     "maxGroupSize": 8,
     "difficulty": "easy",
     "ratingsAverage": 4.5,
@@ -114,7 +114,7 @@
   {
     "id": 7,
     "name": "The Star Gazer",
-    "duration": 9,
+    "duration": 74,
     "maxGroupSize": 8,
     "difficulty": "medium",
     "ratingsAverage": 4.7,
